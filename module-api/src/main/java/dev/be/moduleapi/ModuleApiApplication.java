@@ -17,3 +17,4 @@ public class ModuleApiApplication {
     }
 
 }
+// java -jar -Dspring.profiles.active=local {jarfile}
